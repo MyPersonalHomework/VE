@@ -21,3 +21,12 @@ premier essai avec angularJs
 8 NOK : use google graph/Raphael.js
 
 
+
+------------------------
+Utilisation :
+  - Installer node.js
+  - Demarrer Node.js command prompt
+  - Aller à la racine ..\VE
+  - Lancer le serveur : node scripts\web-server.js
+  - http://localhost:8000/app/index.html
+
