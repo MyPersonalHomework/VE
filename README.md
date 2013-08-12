@@ -4,7 +4,7 @@ kronoSafeHomeWork
 premier essai avec angularJs
 12/08 - V0 - point 1 3
 
-1 OK : A user should be able to connect to your website and to search for a French City
+1 OK : A user should be able to connect to your website and to search for a French City \n
 2 NOK : The user will choose one of the cities returned by the search
 3 OK : The current weather conditions are graphically displayed in the browser.
 4 NOK : A graph sum up the temperature of the several searched cities.
