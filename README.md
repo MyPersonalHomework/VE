@@ -29,23 +29,23 @@ premier essai avec angularJs
 
 ------------------------
 Utilisation :
-  - Installer node.js
-  - Demarrer Node.js command prompt
-  - Aller à la racine ..\VE
-  - Lancer le serveur : node scripts\web-server.js
+  - Install node.js
+  - start Node.js command prompt
+  - go to rep ..\VE
+  - start http server : node scripts\web-server.js
   - http://localhost:8000/app/index.html
 
 ------------------------
 
 TODO for V1 :
-	a search with "Orsay"
-	http://api.wunderground.com/api/:key/geolookup/q/France/Orsay.json
-	"Here is a list of closest weather stations from orsay"
-	show pws station city/neighborhood(I don't take airport station)
-	the user can choose max distance of these stations
-	the user pick a station in the list
-	http://api.wunderground.com/api/:key/conditions/q/pws:IDSTATION.json
-	conditions = current weather
+  - a search with "Orsay"
+  - http://api.wunderground.com/api/:key/geolookup/q/France/Orsay.json
+  - "Here is a list of closest weather stations from orsay"
+  - show pws station city/neighborhood(I don't take airport station)
+  - the user can choose max distance of these stations
+  - the user pick a station in the list
+  - http://api.wunderground.com/api/:key/conditions/q/pws:IDSTATION.json
+  - conditions = current weather
 
 -------------------------
 Problem :
